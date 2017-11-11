@@ -8,6 +8,7 @@ languageCode = "en-us"
   description = "Bouge ton Boulder"
   copyright = "&copy;2017 bougetonboulder"
   email = "pamplemousselune@hotmail.fr"
+  date_format = "2006-01-02"
 
   [[params.navlinks]]
   name = "Home"
