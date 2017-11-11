@@ -1,0 +1,14 @@
+baseurl = "https://example.org/"
+title = "Bouge Ton Boulder"
+theme = "tracks"
+languageCode = "en-us"
+
+[params]
+  style = "violet"
+  description = "Bouge ton Boulder"
+  copyright = "&copy;2017 bougetonboulder"
+  email = "pamplemousselune@hotmail.fr"
+
+  [[params.navlinks]]
+  name = "Home"
+  url = ""
